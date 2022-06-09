@@ -1,4 +1,6 @@
-Attribute Information:
+Explicação retirada do criador da base de dados original:
+
+"Attribute Information:
 
 1: surgery? 
 1 = Yes, it had surgery 
@@ -212,4 +214,4 @@ the abdominal cavity
 - is pathology data present for this case? 
 1 = Yes 
 2 = No 
-- this variable is of no significance since pathology data is not included or collected for these cases
+- this variable is of no significance since pathology data is not included or collected for these cases"
